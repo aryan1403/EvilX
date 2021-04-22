@@ -1,1 +1,1 @@
-release: chmod u+x main.sh && ./main.sh
+worker : java -m src
