@@ -1,1 +1,1 @@
-worker : java -m src
+worker : java  'src/main/java/telebot/App.java'
