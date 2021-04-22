@@ -1,1 +1,1 @@
-worker: java telebot/App.java 
+worker: src/main/java/telebot/App.java 
