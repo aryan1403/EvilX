@@ -1,1 +1,1 @@
-release: chmod u+x release.sh && ./main.sh
+release: chmod u+x main.sh && ./main.sh
