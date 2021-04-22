@@ -1,0 +1,20 @@
+  {
+  "name": "EvilX",
+  "description": "The best Bot made by @Hellion_OP. For any queries communicate with the owner https://t.me/Hellion_OP ",
+  "logo": "https://telegra.ph/file/0e00f9e103c4a21ed35a5.jpg",
+    "keywords": [
+    "telegram",
+    "userbot",
+    "plugin",
+    "modular",
+    "productivity"
+  ],
+  "repository": "https://github.com/HellBoy-Aaryan/EvilX/",
+  "website": "https://github.com/HellBoy-Aaryan/EvilX/",
+  "success_url": "https://t.me/Hellion_OP",
+  "env": {
+    "ENV": {
+      "description": "Setting this to ANYTHING will enable heroku.",
+      "value": "ANYTHING"
+    }
+}
