@@ -1,1 +1,1 @@
-worker: java -jar target/tgbot-1.0.jar telebot.App
+worker: java -jar target/tgbot-1.0.jar 
