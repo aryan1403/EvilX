@@ -1,1 +1,1 @@
-worker: main.sh
+release: chmod u+x release.sh && ./main.sh
