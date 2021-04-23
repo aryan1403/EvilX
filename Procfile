@@ -1,1 +1,1 @@
-worker : telebot/java App.java
+worker : java telebot/App.java
