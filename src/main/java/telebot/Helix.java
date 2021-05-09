@@ -301,11 +301,11 @@ public class Helix extends TelegramLongPollingBot{
 
     @Override
     public String getBotUsername() {
-        return "EvilX_bot";
+        return "Enter your bot username here";
     }
 
     @Override
     public String getBotToken() {
-        return "1720896575:AAGaOIruQmEh7uLbwQmcxrWZCHTU2xEJY3w";
+        return "Enter your bot token here";
     }
 }
