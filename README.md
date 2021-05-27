@@ -1,7 +1,6 @@
 # Evil-X
  A Telegram Bot 
-
- I will be Updating This Code in the Future for improved Code and better functionalities.
+ Evil-X is under **Development** I will be releasing it _soon_.
 
 ## Language
   Evil-X is made in Java using Telegram-Bot Library ;)
@@ -9,7 +8,7 @@
   [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)]()
   
 ## Contribution
-Evil-X is under **Development** I will be releasing it _soon_. I have no problem if you kang/Edit my Code. If you want to Contribute with me you can make a Pull Request :)
+ I have no problem if you kang/Edit my Code. If you want to Contribute with me you can make a Pull Request :)
 
 # Credit's
   [Rubenlagus](https://github.com/rubenlagus/) - For Telegram Bot Library
