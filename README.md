@@ -11,6 +11,10 @@
 ## Contribution
 Evil-X is under **Development** I will be releasing it _soon_. I have no problem if you kang/Edit my Code. If you want to Contribute with me you can make a Pull Request :)
 
+# Credit's
+  [Rubenlagus](https://github.com/rubenlagus/) - For Telegram Bot Library
+  [Developer](https://github.com/Hellboy-Aaryan/) - Developer(Me)
+
 # Support
 If you like my work you can Support me or donate me (If you can).
 
