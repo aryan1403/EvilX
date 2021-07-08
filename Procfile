@@ -1,1 +1,1 @@
-worker : java telebot/App.java
+worker : javac target/classes/*
