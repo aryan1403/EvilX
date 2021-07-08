@@ -2,6 +2,9 @@
  A Telegram Bot 
  
  Evil-X is under **Development** I will be releasing it _soon_.
+ 
+# Deploy
+  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Hellboy-Aaryan/EvilX)
 
 ## Language
   Evil-X is made in Java using Telegram-Bot Library ;)
