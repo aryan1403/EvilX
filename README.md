@@ -1,7 +1,7 @@
 # Evil-X
  A Telegram Bot 
  
- Evil-X is under **Development** I will be releasing it _soon_.
+ Evil-X is under **__Development__** I will be releasing it _soon_.
  
 # Deploy
   [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Hellboy-Aaryan/EvilX)
